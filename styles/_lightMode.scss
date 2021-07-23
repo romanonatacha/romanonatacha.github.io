@@ -96,6 +96,13 @@
         color: $black2;
     }
 
+    .feedbacks {
+        &__slide {
+            background-color: $secondary-dark;
+            color: $black2;
+        }
+    }
+
     #social-sidebar a:hover,
     #social-sidebar a:hover .icon,
     #social-sidebar a span,

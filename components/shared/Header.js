@@ -16,6 +16,10 @@ export default class Header extends Component {
                 url: '/about'
             },
             {
+                title: 'feedbacks',
+                url: '/feedbacks'
+            },
+            {
                 title: 'skills',
                 url: '/skills'
             },
