@@ -49,7 +49,7 @@ export default class About extends Component {
                             </span>
                             <span className="padding4 font-sm">
                                 French
-                                <i class="fas font-lg icon fa-battery-quarter"></i>
+                                <i class="fas font-lg icon fa-battery-half"></i>
                             </span>
                         </div>
                         <div className="about-title default light bottom16">SOFT SKILLS</div>
@@ -91,12 +91,12 @@ export default class About extends Component {
                                 cats
                             </span>
                             <span className="padding4">
-                                <img src="/images/science.svg" />
-                                science
+                                <img src="/images/ballet.svg" />
+                                ballet
                             </span>
                             <span className="padding4">
-                                <img src="/images/tech.svg" />
-                                tech
+                                <img src="/images/science.svg" />
+                                science
                             </span>
                             <span className="padding4">
                                 <img src="/images/hanger.svg" />
